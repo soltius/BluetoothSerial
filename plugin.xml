@@ -16,7 +16,7 @@
         <clobbers target="window.bluetoothClassicSerial" />
     </js-module>
 
-    <dependency id="cordova-custom-config" version="2.0.3" />
+    <dependency id="cordova-custom-config"/>
 
     <platform name="android">
 
